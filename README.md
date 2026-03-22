@@ -1,4 +1,4 @@
-# book-gpt
+# DOCS_GPT
 
 Upload a book, ask me anything about it.
 
